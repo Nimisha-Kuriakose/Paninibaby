@@ -1,0 +1,398 @@
+ *
+ {
+    margin: 0px;
+    padding: 0px;
+
+ }
+header
+{
+    position: fixed;
+}
+ 
+ .first
+{
+    height: 70px;
+    max-width: 100%;
+    background-color:beige;
+    display: flex;
+}
+.firstimg
+{
+    position: absolute;
+    width: 81px;
+    height: 50px;
+    top: 14px;
+    left: 116px;
+}
+.secondimg
+{
+    position: absolute;
+    width: 81px;
+    height: 50px;
+    top: 17px;
+    left: 1390px;
+}
+.second
+{
+    display: flex;
+}
+.plate
+{
+    box-shadow: 10px 10px 5px beige;
+}
+p1{
+    position: absolute;
+    letter-spacing: 5px;
+    top: 188px;
+    left: 1104px;
+    color: grey;
+    width: 10px;
+    font-style: italic;
+    font-size: 21px;
+    
+
+}
+p2
+{
+    position: absolute;
+    letter-spacing: 5px;
+    top: 231px;
+    left: 1035px;
+    color: black;
+    /* width: 10px; */
+    /* font-style: italic; */
+    font-size: 31px;
+
+}
+p3
+{
+    position: absolute;
+    letter-spacing: 5px;
+    top: 284px;
+    left: 1103px;
+    color: black;
+    /* width: 10px; */
+    font-style: italic;
+    font-size: 24px;
+
+}
+.sigsag
+{
+    position: absolute;
+    left: 1110px;
+    top: 362px;
+}
+p4
+{
+    position: absolute;
+    letter-spacing: 5px;
+    top: 390px;
+    left: 1035px;
+    color: black;
+    /* width: 10px; */
+    /* font-style: italic; */
+    font-size: 16px;
+}
+.firstpara
+{
+    position: absolute;
+    top: 1111px;
+    left: 450px;
+    line-height: 35px;
+    
+}
+.order
+{
+    background-color: #e1d8d8;
+    color: black;
+    left: 78px;
+    position: absolute;
+    width: 179px;
+    border: 0px;
+    padding-left: 6px;
+    height: 33px;
+}
+.zigzag
+{
+    position: absolute;
+    left: 124px;
+    top: 228px;
+}
+.fresh
+{
+    
+    position: absolute;
+    left: 87px;
+    top: 275px;
+    font-size: 22px;
+}
+.explore
+{
+    position: absolute;
+    left: 87px;
+    letter-spacing: 2.5px;
+    top: 314px;
+    font-size: 22px;
+    font-style: italic;
+    text-transform: lowercase;
+
+}
+.block
+{
+    display: flex;
+}
+.block1
+{  
+    left: 134px;
+    width: 263px;
+    height: 10px;
+    block-size: 50px;
+    /* width: 50px; */
+    top: 1510px;
+    position: absolute;
+    font-size: 27px;
+    color: black;
+    box-shadow: -1px 7px 25px grey;
+}
+.p1block
+{
+
+    font-style: normal;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: -1px;
+    font-size: 27px;
+    color: gray;
+
+}
+.p2block
+{
+    
+    position: absolute;
+    padding-top: 16px;
+    padding-left: 71px;
+    left: 10px;
+    font-size: 23px;
+    top: 10px;
+    color: gray;
+    font-style: italic;
+}
+.block2
+{
+    left: 494px;
+    width: 263px;
+    height: 10px;
+    block-size: 50px;
+    /* width: 50px; */
+    top: 1510px;
+    position: absolute;
+    font-size: 27px;
+    color: black;
+    box-shadow: -1px 7px 25px grey;
+}
+.p3block
+{
+    font-style: normal;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: -1px;
+    font-size: 27px;
+    color: gray;
+
+}
+.p4block
+{
+    position: absolute;
+    padding-top: 16px;
+    padding-left: 71px;
+    left: 10px;
+    font-size: 23px;
+    top: 10px;
+    color: gray;
+    font-style: italic;
+
+}
+.block3
+{
+    left: 838px;
+    width: 263px;
+    height: 10px;
+    block-size: 50px;
+    /* width: 50px; */
+    top: 1510px;
+    position: absolute;
+    font-size: 27px;
+    color: black;
+    box-shadow: -1px 7px 25px grey;
+}
+.p5block
+{
+    font-style: normal;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: -1px;
+    font-size: 27px;
+    color: gray;
+
+}
+.p6block
+{
+    position: absolute;
+    padding-top: 16px;
+    padding-left: 71px;
+    left: 10px;
+    font-size: 23px;
+    top: 10px;
+    color: gray;
+    font-style: italic;
+
+}
+.image1
+{
+    position: absolute;
+    top: 1640px;
+    left: 10px;
+    width: 100%;
+}
+.ivar
+{
+    display: flex;
+}
+.plain
+{
+    width: 266px;
+    height: 155px;
+    position: absolute;
+    left: 207px;
+    top: 2575px;
+    background-color: #fafafa;
+}
+.text1
+{
+    color: black;
+    font-size: 40px;
+    font-style: italic;
+    position: absolute;
+    left: 93px;
+    top: 2687px;
+
+}
+.text2
+{
+    position: absolute;
+    left: 129px;
+    top: 2797px;
+    line-height: 22px;
+}
+.ivarimg
+{
+    position: absolute;
+    left: 562px;
+    top: 2617px;
+}
+
+.lastimg
+{
+    position: absolute;
+    top: 3462px;
+    left: 58px;
+    width: 657px;
+    height: 534px;
+}
+.last
+{
+    display: flex;
+}
+span3
+{
+    color: black;
+    position: absolute;
+    top: 3500px;
+    left: 735px;
+    font-size: 32px;
+    font-weight: 200px;
+    text-transform: uppercase;
+
+}
+span4
+{
+    position: absolute;
+    top: 3571px;
+    left: 761px;
+    text-transform: lowercase;
+    font-style: italic;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+span5
+{
+    position: absolute;
+    top: 3641px;
+    left: 744px;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+span6
+{
+    position: absolute;
+    top: 3740px;
+    left: 744px;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+span7
+{
+    position: absolute;
+    top: 3840px;
+    left: 744px;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+span8
+{
+    position: absolute;
+    top: 3932px;
+    left: 744px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+span9
+{
+    position: absolute;
+    top: 4018px;
+    left: 744px;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+.icons
+{
+    display: flex;
+    position: absolute;
+    top: 4043px;
+    left: 744px;
+
+}
+.footer
+{
+    display: flex;
+    position: absolute;
+    top: 4141px;
+    left: 401px;
+    color: gray;
+}
+.footer2
+{
+    display: flex;
+    position: absolute;
+    top: 4178px;
+    left: 518px;
+    color: gray;
+}
+.footerimg
+{
+    position: absolute;
+    width: 109px;
+    top: 4258px;
+    left: 548px;
+    color: gray;
+}
